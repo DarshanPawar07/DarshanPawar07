@@ -18,7 +18,6 @@ and learning through hands-on development.
 - 🧠 400+ LeetCode problems solved
 - 🏆 Smart India Hackathon 2025 — National Finalist
 - 🏆 Vishwakarma Awards 2024 — Top 10 Nationally
-- 🌱 Currently improving my skills in backend engineering, system design & AI
 - 📍 Pune, Maharashtra, India
 - 💼 Open to software engineering opportunities
 
@@ -121,10 +120,6 @@ problem-solving skills.
 🏅 **Smart India Hackathon 2025 — National Finalist**
 
 🏅 **Vishwakarma Awards 2024 — Top 10 Nationally**
-
-📜 **Certificate of Excellence — C, C++ & DSA**
-
-📜 **MERN Stack Web Development — CodeHelp**
 
 ---
 
